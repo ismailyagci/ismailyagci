@@ -2,7 +2,7 @@
 <h3 align="center">A passionate javascript developer from Turkey</h3>
 
 
-For the last 3 years, I have been developing on JavaScript (Mobile, Frontend, Backend) areas.
+For the last 4 years, I have been developing on JavaScript (Mobile, Frontend, Backend) areas.
 
 technologies I'm working on;
 
